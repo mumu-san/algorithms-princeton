@@ -1,0 +1,11 @@
+100000
+QuickFindUf:
+union(99999):10.0717036s ,find(63957):0.0041625s
+QuickUnionUf:
+union(99999):2.2751746s ,find(63136):12.3592415s
+Weighed_QU:
+union(100000):0.007747s ,find(63724):0.0079462s    
+PathCompressQu:
+union(99998):0.0100346s ,find(63401):0.0054284s    
+WQUPC:
+union(100000):0.0057864s ,find(63722):0.0049589s 
